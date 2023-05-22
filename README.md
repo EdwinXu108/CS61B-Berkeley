@@ -1,2 +1,2 @@
 # CS61B-Berkeley
-UC Berkeley - CS61B: Data Structures and Algorithms - 18 Spring
+UC Berkeley - CS61B: Data Structures and Algorithms - 2018 Spring
